@@ -9,6 +9,12 @@ inkscape-extension that generates a rectangle with special dimensions
 license: CC BY-NC 4.0
 https://creativecommons.org/licenses/by-nc/4.0/
 
+find it on github
+https://github.com/Mr-DblH/inkscape-draw-rectangle
+
+mastodon
+https://mastodon.social/@MrDblH
+
 
 v1
 - generate rectangles, DIN and special ratios

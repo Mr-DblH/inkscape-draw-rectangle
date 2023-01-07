@@ -24,7 +24,9 @@ The special values, some of which cannot be represented by fractions, are derive
 
 
 ## sources
-... in no particular order
+ - [https://github.com/Mr-DblH/inkscape-draw-rectangle](https://github.com/Mr-DblH/inkscape-draw-rectangle)
+
+... and in no particular order
 - [1] [https://www.linux-magazine.com/Issues/2020/239/Magic-Circle](https://www.linux-magazine.com/Issues/2020/239/Magic-Circle)
 - [2] [https://inkscapetutorial.org/pages/extension.html](https://inkscapetutorial.org/pages/extension.html)
 - [3] [https://inkscape.gitlab.io/extensions/documentation/](https://inkscape.gitlab.io/extensions/documentation/)
@@ -33,6 +35,7 @@ The special values, some of which cannot be represented by fractions, are derive
 - [6] [https://www.home.uni-osnabrueck.de/gskalla/Eigene/papierformat.html](https://www.home.uni-osnabrueck.de/gskalla/Eigene/papierformat.html)
 - [7] [https://www.din-formate.de/berechnung-format-reihe-din-b0-b1-b2-b3-b4-b5-b6-b7-b8-b9-b10-seiten-masse-papier-groesse-in-mm-qm.html](https://www.din-formate.de/berechnung-format-reihe-din-b0-b1-b2-b3-b4-b5-b6-b7-b8-b9-b10-seiten-masse-papier-groesse-in-mm-qm.html)
 - [8] [https://gitlab.com/inkscape/extensions/-/blob/master/text_merge.py](https://gitlab.com/inkscape/extensions/-/blob/master/text_merge.py)
+
 
 
 ## license
