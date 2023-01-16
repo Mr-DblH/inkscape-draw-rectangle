@@ -37,6 +37,10 @@ The special values, some of which cannot be represented by fractions, are derive
 - [8] [https://gitlab.com/inkscape/extensions/-/blob/master/text_merge.py](https://gitlab.com/inkscape/extensions/-/blob/master/text_merge.py)
 
 
+### comparable extensions
+- https://sourceforge.net/p/razorfoss/svn/HEAD/tree/trunk/Inkscape/InsertPaperTemplate/
+
+
 
 ## license
 Creative Commons Attribution-NonCommercial 4.0 International [(CC BY-NC 4.0) ](https://creativecommons.org/licenses/by-nc/4.0/)
